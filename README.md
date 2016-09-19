@@ -36,5 +36,5 @@
 如果想手动打包前端, 可以参见 `WebIDE-Frontend-Webjars` 项目。
 
 打包完成后, 使用 `mvn spring-boot:run` 启动项目即可。
-ghujgjhg
+ghujgjhg 
 
